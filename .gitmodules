@@ -1,0 +1,3 @@
+[submodule "source/gs2lib"]
+	path = source/gs2lib
+	url = git@github.com:gomsun2/gs2lib
